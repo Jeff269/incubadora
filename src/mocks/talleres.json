@@ -1,0 +1,62 @@
+[
+  {
+    "nombre": "Taller de Innovación Tecnológica",
+    "descripcion": "Exploración de las últimas tendencias tecnológicas y su aplicación en proyectos innovadores.",
+    "fecha_inicio": "2024-02-15",
+    "fecha_fin": "2024-02-16",
+    "participantes": [
+      "Laura González",
+      "Fernando Vargas",
+      "Marta Álvarez"
+    ],
+    "estado": "activo"
+  },
+  {
+    "nombre": "Taller de Emprendimiento y Liderazgo",
+    "descripcion": "Desarrollo de habilidades de liderazgo y estrategias para iniciar un emprendimiento exitoso.",
+    "fecha_inicio": "2024-03-10",
+    "fecha_fin": "2024-03-11",
+    "participantes": [
+      "Daniel Peralta",
+      "Ana López",
+      "Samuel Ríos"
+    ],
+    "estado": "inactivo"
+  },
+  {
+    "nombre": "Taller de Marketing Digital",
+    "descripcion": "Estrategias de marketing digital para mejorar la visibilidad de proyectos de emprendimiento.",
+    "fecha_inicio": "2024-04-20",
+    "fecha_fin": "2024-04-21",
+    "participantes": [
+      "Marcos Pérez",
+      "Lorena Jiménez",
+      "Jorge Martínez"
+    ],
+    "estado": "activo"
+  },
+  {
+    "nombre": "Taller de Desarrollo Sostenible",
+    "descripcion": "Capacitación en prácticas sostenibles y su impacto en el emprendimiento.",
+    "fecha_inicio": "2024-05-05",
+    "fecha_fin": "2024-05-06",
+    "participantes": [
+      "Sofía Herrera",
+      "Carlos Mendoza",
+      "Roberto Solís"
+    ],
+    "estado": "activo"
+  },
+  {
+    "nombre": "Taller de Financiación para Startups",
+    "descripcion": "Guía para la búsqueda de financiamiento y la gestión económica de startups.",
+    "fecha_inicio": "2024-06-15",
+    "fecha_fin": "2024-06-16",
+    "participantes": [
+      "Paola Fernández",
+      "Miguel Torres",
+      "Andrea Ramírez"
+    ],
+    "estado": "inactivo"
+  }
+]

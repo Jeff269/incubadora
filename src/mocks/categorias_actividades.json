@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Salud",
+    "descripcion": "Actividades relacionadas con el bienestar físico y mental, medicina preventiva y avances en el campo de la salud."
+  },
+  {
+    "nombre": "Ingeniería",
+    "descripcion": "Eventos enfocados en innovaciones, tecnologías y desarrollos dentro del ámbito de la ingeniería en sus distintas ramas."
+  },
+  {
+    "nombre": "Sociales",
+    "descripcion": "Actividades que abordan temas de impacto social, desarrollo comunitario y el estudio de fenómenos sociales."
+  },
+  {
+    "nombre": "Tecnología",
+    "descripcion": "Talleres y conferencias sobre tecnología emergente, programación, inteligencia artificial, y herramientas digitales."
+  },
+  {
+    "nombre": "Emprendimiento",
+    "descripcion": "Eventos diseñados para fomentar la creación de empresas, desarrollo de ideas innovadoras y gestión de proyectos."
+  }
+]

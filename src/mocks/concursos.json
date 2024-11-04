@@ -1,0 +1,132 @@
+[
+  {
+    "nombre": "Concurso de Innovación Empresarial",
+    "fecha_inicio": "2024-01-10",
+    "fecha_fin": "2024-01-20",
+    "estado": "finalizado",
+    "descripcion": "Este concurso impulsa el desarrollo de ideas innovadoras para mejorar procesos empresariales.",
+    "participantes": [
+      "Equipo Visionarios",
+      "Innova Tech",
+      "Alpha Creatives"
+    ],
+    "ganador": "Innova Tech"
+  },
+  {
+    "nombre": "Hackathon Tec Global",
+    "fecha_inicio": "2024-02-15",
+    "fecha_fin": "2024-02-17",
+    "estado": "finalizado",
+    "descripcion": "Competencia intensiva de desarrollo para crear soluciones tecnológicas en tiempo récord.",
+    "participantes": [
+      "Dev Masters",
+      "Next Gen Coders",
+      "Code Pioneers"
+    ],
+    "ganador": "Dev Masters"
+  },
+  {
+    "nombre": "Concurso de Prototipos Industriales",
+    "fecha_inicio": "2024-03-01",
+    "fecha_fin": "2024-03-10",
+    "estado": "publicado",
+    "descripcion": "Competencia para presentar prototipos funcionales en áreas de manufactura y robótica.",
+    "participantes": [
+      "Build Smart",
+      "Industrial Innovators",
+      "Proto Lab"
+    ],
+    "ganador": "Proto Lab"
+  },
+  {
+    "nombre": "Competencia Nacional de Robótica",
+    "fecha_inicio": "2024-04-05",
+    "fecha_fin": "2024-04-10",
+    "estado": "visible",
+    "descripcion": "Competencia para construir y programar robots autónomos para resolver desafíos complejos.",
+    "participantes": [
+      "Robotica X",
+      "Tech Builders",
+      "Smart Robotics"
+    ],
+    "ganador": "Tech Builders"
+  },
+  {
+    "nombre": "Maratón de Programación Interuniversitaria",
+    "fecha_inicio": "2024-05-15",
+    "fecha_fin": "2024-05-18",
+    "estado": "finalizado",
+    "descripcion": "Desafío intensivo de programación para estudiantes universitarios de todo el país.",
+    "participantes": [
+      "Code Warriors",
+      "Binary Beasts",
+      "Algorithm Experts"
+    ],
+    "ganador": "Binary Beasts"
+  },
+  {
+    "nombre": "Concurso Nacional de Startups",
+    "fecha_inicio": "2024-06-01",
+    "fecha_fin": "2024-06-10",
+    "estado": "visible",
+    "descripcion": "Concurso para startups emergentes que buscan financiación y visibilidad.",
+    "participantes": [
+      "Future Ventures",
+      "Start Me Up",
+      "Innovate Now"
+    ],
+    "ganador": "Future Ventures"
+  },
+  {
+    "nombre": "Exposición de Tecnología Avanzada",
+    "fecha_inicio": "2024-07-05",
+    "fecha_fin": "2024-07-15",
+    "estado": "publicado",
+    "descripcion": "Presentación de tecnologías emergentes e innovaciones en el campo de la informática.",
+    "participantes": [
+      "Tech Savvy",
+      "High Tech Explorers",
+      "Innovate Labs"
+    ],
+    "ganador": "Innovate Labs"
+  },
+  {
+    "nombre": "Competencia de Apps Móviles",
+    "fecha_inicio": "2024-08-20",
+    "fecha_fin": "2024-08-25",
+    "estado": "finalizado",
+    "descripcion": "Competencia de desarrollo de aplicaciones móviles enfocada en resolver problemas cotidianos.",
+    "participantes": [
+      "App Experts",
+      "Next Gen Apps",
+      "Mobile Innovators"
+    ],
+    "ganador": "Next Gen Apps"
+  },
+  {
+    "nombre": "Concurso de Desarrollo de Videojuegos",
+    "fecha_inicio": "2024-09-10",
+    "fecha_fin": "2024-09-15",
+    "estado": "visible",
+    "descripcion": "Competencia de creación de videojuegos originales con una temática única cada año.",
+    "participantes": [
+      "Game Crafters",
+      "Pixel Warriors",
+      "Virtual Visionaries"
+    ],
+    "ganador": "Pixel Warriors"
+  },
+  {
+    "nombre": "Desafío de Emprendimiento Digital",
+    "fecha_inicio": "2024-10-05",
+    "fecha_fin": "2024-10-15",
+    "estado": "publicado",
+    "descripcion": "Desafío para proyectos de emprendimiento en el ámbito digital y de comercio electrónico.",
+    "participantes": [
+      "E-Business Stars",
+      "Digital Innovators",
+      "Online Pioneers"
+    ],
+    "ganador": "Digital Innovators"
+  }
+]

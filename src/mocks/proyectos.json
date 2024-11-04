@@ -1,0 +1,67 @@
+[
+  {
+    "nombre": "EcoTech Solutions",
+    "descripcion": "Proyecto de soluciones tecnológicas enfocadas en la sostenibilidad ambiental.",
+    "fecha_inicio": "2024-01-10",
+    "fecha_fin": "2024-06-10",
+    "equipo": "Innovadores del Futuro",
+    "participantes": [
+      "Laura González",
+      "Fernando Vargas",
+      "Marta Álvarez"
+    ],
+    "estado": "activo"
+  },
+  {
+    "nombre": "AgroSmart Perú",
+    "descripcion": "Iniciativa de tecnología inteligente para la optimización agrícola en el Perú.",
+    "fecha_inicio": "2024-02-15",
+    "fecha_fin": "2024-07-15",
+    "equipo": "TechFarm Innovators",
+    "participantes": [
+      "Daniel Peralta",
+      "Ana López",
+      "Samuel Ríos"
+    ],
+    "estado": "inactivo"
+  },
+  {
+    "nombre": "HealthCare Plus",
+    "descripcion": "Plataforma de servicios de salud para facilitar el acceso a recursos médicos en áreas rurales.",
+    "fecha_inicio": "2024-03-20",
+    "fecha_fin": "2024-09-20",
+    "equipo": "Salud Avanzada",
+    "participantes": [
+      "Marcos Pérez",
+      "Lorena Jiménez",
+      "Jorge Martínez"
+    ],
+    "estado": "activo"
+  },
+  {
+    "nombre": "MarketHub",
+    "descripcion": "Aplicación de comercio electrónico para conectar productores locales con consumidores urbanos.",
+    "fecha_inicio": "2024-04-25",
+    "fecha_fin": "2024-10-25",
+    "equipo": "Emprendedores Unidos",
+    "participantes": [
+      "Sofía Herrera",
+      "Carlos Mendoza",
+      "Roberto Solís"
+    ],
+    "estado": "activo"
+  },
+  {
+    "nombre": "TechEd Academy",
+    "descripcion": "Plataforma de educación tecnológica para jóvenes en comunidades desfavorecidas.",
+    "fecha_inicio": "2024-05-30",
+    "fecha_fin": "2024-11-30",
+    "equipo": "Academia del Futuro",
+    "participantes": [
+      "Paola Fernández",
+      "Miguel Torres",
+      "Andrea Ramírez"
+    ],
+    "estado": "inactivo"
+  }
+]

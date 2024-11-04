@@ -1,0 +1,72 @@
+[
+  {
+    "nombre": "Jornada de Innovación en Salud",
+    "categoria": "Salud",
+    "fecha": "2024-02-10",
+    "hora": "09:00",
+    "lugar": "Paraninfo 1"
+  },
+  {
+    "nombre": "Encuentro de Ingeniería Sostenible",
+    "categoria": "Ingeniería",
+    "fecha": "2024-02-11",
+    "hora": "10:30",
+    "lugar": "Sala de Grados y Títulos"
+  },
+  {
+    "nombre": "Foro de Impacto Social",
+    "categoria": "Sociales",
+    "fecha": "2024-02-12",
+    "hora": "11:00",
+    "lugar": "Biblioteca"
+  },
+  {
+    "nombre": "Taller de Programación Avanzada",
+    "categoria": "Tecnología",
+    "fecha": "2024-02-13",
+    "hora": "14:00",
+    "lugar": "Paraninfo 2"
+  },
+  {
+    "nombre": "Seminario de Startups",
+    "categoria": "Emprendimiento",
+    "fecha": "2024-02-14",
+    "hora": "16:00",
+    "lugar": "Oficina de Incuba Centro"
+  },
+  {
+    "nombre": "Charla sobre Bienestar y Salud Mental",
+    "categoria": "Salud",
+    "fecha": "2024-02-15",
+    "hora": "09:30",
+    "lugar": "Biblioteca"
+  },
+  {
+    "nombre": "Mesa Redonda de Innovación Industrial",
+    "categoria": "Ingeniería",
+    "fecha": "2024-02-16",
+    "hora": "13:00",
+    "lugar": "Paraninfo 1"
+  },
+  {
+    "nombre": "Taller de Liderazgo Social",
+    "categoria": "Sociales",
+    "fecha": "2024-02-17",
+    "hora": "10:00",
+    "lugar": "Sala de Grados y Títulos"
+  },
+  {
+    "nombre": "Hackathon Tecnológica",
+    "categoria": "Tecnología",
+    "fecha": "2024-02-18",
+    "hora": "08:00",
+    "lugar": "Oficina de Incuba Centro"
+  },
+  {
+    "nombre": "Conferencia sobre Modelos de Negocios",
+    "categoria": "Emprendimiento",
+    "fecha": "2024-02-19",
+    "hora": "15:00",
+    "lugar": "Paraninfo 2"
+  }
+]
