@@ -1,6 +1,7 @@
 import { Outlet, useNavigate, Link } from 'react-router-dom'
 import Logo from '../components/Logo'
 import { IconBox, IconChart, IconExit, IconHome, IconMenu, IconWeb } from '../assets/Icons'
+import PartialMenu from '../components/PartialMenu'
 
 export default function AuthLayout () {
   const navigate = useNavigate()
@@ -9,8 +10,8 @@ export default function AuthLayout () {
   }
 
   return (
-    <div className='flex w-full max-sm:flex-col'>
-      <div className='sm:w-[300px] sm:min-h-screen flex flex-col justify-between'>
+    <div className='flex w-full max-sm:flex-col bg-backgroud '>
+      <div className='sm:w-[300px] sm:h-screen flex flex-col justify-between bg-white rounded-br-2xl overflow-hidden'>
         <div className='h-12 p-0 flex flex-col items-center sm:my-1'>
           <div className='flex justify-between p-2 w-full h-full'>
             <span />
@@ -19,6 +20,9 @@ export default function AuthLayout () {
               <IconMenu className='h-7 hidden max-sm:block text-primary transition-all hover:scale-105 border p-1 aspect-square rounded-md hover:bg-gray-50 hover:shadow' />
             </button>
           </div>
+          <PartialMenu>
+            a
+          </PartialMenu>
           <section className='text-sm w-full max-sm:hidden pl-4'>
             <h1 className='text-sm font-bold max-sm:hidden text-center text-primary'>
               SISTEMA DE INCUBADORA DE EMPRESAS
