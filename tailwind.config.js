@@ -12,7 +12,7 @@ export default {
       colors: {
         primary: '#64748b',
         secondary: 'var(--aw-color-secondary)',
-        backgroud: '#f5f5f5'
+        background: '#f5f5f5'
       }
     }
   },

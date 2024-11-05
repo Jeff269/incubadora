@@ -1,24 +1,27 @@
 import { useState } from 'react'
-import { IconHome } from '../assets/Icons'
+import { useLocation } from 'react-router-dom'
 
-export default function PartialMenu ({ children }) {
-  const [content, setContent] = useState(false)
+export default function PartialMenu ({ icon, title, path = '*', children }) {
+  const location = useLocation()
+  const isPath = location.pathname.slice(0, path.length) === path
+  const [content, setContent] = useState(isPath)
 
   return (
-    <ul className='text-sm px-4 w-full'>
+    <ul className='text-sm w-full'>
       <button
         onClick={() => setContent(!content)}
-        className='w-full flex items-center hover:bg-backgroud h-10 pl-2 rounded-l-lg'
+        className={`w-full flex items-center hover:bg-background h-10 pl-2 rounded-l-lg my-1 ${isPath && 'bg-background'}`}
       >
-        <IconHome className='h-4 w-4 mx-2' />
+        {icon}
         <p>
-          Incubadora de Empresas
+          {title}
         </p>
       </button>
-      {
-        content &&
-        { children }
-      }
+      <div className={`max-height-animate ease-in-out overflow-hidden transition-all duration-400 ${!content ? 'max-h-[0px]' : 'max-h-[800px]'}`}>
+        <div className={`transition-opacity duration-300 ${!content ? 'opacity-0' : 'opacity-100 scale-y-100'}`}>
+          {children}
+        </div>
+      </div>
     </ul>
   )
 }
